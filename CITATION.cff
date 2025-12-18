@@ -42,10 +42,10 @@ authors:
     orcid: 'https://orcid.org/0000-0002-8572-9268'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.12345
+    value: https://doi.org/10.5281/zenodo.17979895
     description: Zenodo archive (V1.0.0)
   - type: doi
-    value: 10.5281/zenodo.12345
+    value: 10.5281/zenodo.17979893
     description: Zenodo Archive (latest version)
 repository-code: 'https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025'
 url: 'https://www.melidos.eu'
