@@ -86,14 +86,17 @@ The following files are included with this Dataset:
 <!-- -->
 
         data/
+            corrections/
+                change_log.xlsx
+                THUAS_S020_sleepdiary_20251106.csv
             raw/
                 group/
-                   chronotype/
                    demographics/
                    discharge/
                    screening/
                 individual/
                    $ParticipantID/
+                         chronotype/
                          continuous/
                              actlumus_wrist/
                              actlumus_head/
@@ -122,31 +125,29 @@ analyses.
 
 | Folder name | Content |
 |----|----|
-| **chronotype** | N=2 csv files, one for the Morning Eveningness Questionnaire (MEQ) and one for the Munich Chronotype Questionnaire (MCTQ). Each contains data for N=17 participants. |
-| **demographics** | N=1 csv files. Contains demographic information for N=17 participants. |
-| **discharge** | N=1 csv file, which contains answers from all questionnaires that N=17 participants had to fill at discharge: 1) Light Exposure Behaviour Assessment (LEBA instrument), 2) Visual Light Sensitivity Questionnaire-8 (VLSQ-8), 3) Assessment of Sleep Environment (ASE) questionnaire, 4) Modified Theory Framework of Acceptability (mTFA) questionnaire, 5) Feedback (1 Y/N and multiple choice questions). |
-| **screening** | N=1 csv file for N=17 participants containing screening information. |
+| **demographics** | One csv file (`THUAS_S001_S020_demographics_all_20251029.csv`) with demographic information for 20 recruited participants (THUAS_S001–THUAS_S020). |
+| **discharge** | Six csv files aggregating discharge-day questionnaires for the 20 recruited participants: discharge summary, LEBA, VLSQ8, ASE, mTFA, and feedback. |
+| **screening** | One csv file (`THUAS_S001_S020_health_all_20251029.csv`) containing screening and health information for the 20 recruited participants. |
 
 ## Individual
 
-This folder contains individual-level data for N=17 participant, each
-stored in a separate folder named after the participant ID (PID). The
-data within each participant folder follows the following structure.
+This folder contains individual-level data for N=15 participants, each
+stored in a separate folder named after the participant ID
+(THUAS_S001–THUAS_S020 excluding S004, S008, S009, S012, and S013). The
+data within each participant folder follows the following structure
+(availability of sensor files may differ by participant).
 
 | Folder name | Content |
 |----|----|
-| **continuous/actlumus_chest** | txt files from ActLumus worn at chest level, one for each participant. Also, a report (`_Report`) from the device. |
-| **continuous/actlumus_head** | txt files from ActLumus worn at eye level, one for each participant. Also, a report (`_Report`) from the device. Note: Participant IZTECH_S004 has two separate light exposure measurement files. |
-| **continuous/actlumus_wrist** | txt files from ActLumus worn at the wrist, one for each participant. Also, a report (`_Report`) from the device. Note: Participant IZTECH_S016 has a sampling interval of 120 seconds instead of 10 seconds. |
-| **continuous/actlumus_environment** | txt files from ActLumus placed on the south-facing exterior wall of the Izmir Institute of Technology Molecular Biology and Genetics Building, one for each participant. Also, a report (`_Report`) from the device. |
-| **continuous/currenconditions/** | Questionnaire comprising 3 questionnaires on 1) current mood (MoodZoom), 2) light conditions (custom) and 3) alertness (Karolinska Sleepiness Scale). Completed 4/times per day, at 11:00, 14:00, 17:00 and 20:00. Participants instructed to completed as close as possible to the indicated times. The participant sometimes additionally reported upon waking and before going to bed. |
-| **continuous/exercisediary/** | Custom made questionnaire on exercise. Completed daily in the evening |
+| **continuous/actlumus_chest** | txt files from ActLumus worn at chest level, plus a device report (`_Report`) when available. |
+| **continuous/actlumus_head** | txt files from ActLumus worn at eye level, plus a device report (`_Report`) when available. |
+| **continuous/actlumus_wrist** | txt files from ActLumus worn at the wrist, plus a device report (`_Report`) when available. Present for most participants; absent where the device was not worn. |
+| **continuous/currentconditions/** | Questionnaire comprising 3 questionnaires on 1) current mood (MoodZoom), 2) light conditions (custom) and 3) alertness (Karolinska Sleepiness Scale). Completed four times per day, at 11:00, 14:00, 17:00 and 20:00. Participants instructed to complete as close as possible to the indicated times, with occasional extra entries upon waking or before bed. |
+| **continuous/exercisediary/** | Custom made questionnaire on exercise. Completed daily in the evening. |
 | **continuous/experiencelog/** | Custom made questionnaire about experiences wearing the light glasses. Completed any time participant had an experience to report (no restrictions). |
-| **continuous/mHLEA_digital/** | Custom made questionnaire to test Daily in the evening |
-| **continuous/mHLEA_paper/** | Custom made paper-based questionnaire to test Daily in the evening. This was transcribed to xlsx files by the experimenter after study end for each participant. |
-| **continuous/sleepdiary/** | Daily in the morning |
-| **continuous/wearlog/** | Any time participant had removed or started wearing the light logger |
-| **continuous/wellbeingdiary/** | Daily in the evening |
-| **chronotype/** | Munich Chronotype Questionnaire (MCTQ) & Morning Eveningness Questionnaire (MEQ) completed at study intake (Monday, day 1) |
-| **demographics/** | Screening questionnaire containing demographic and health information. Completed online before study intake. |
-| **discharge/** | n=5 csv files with LEBA, VLSQ8, feedback, mTFA, and ASE. Completed at discharge (Monday, day 8). |
+| **continuous/mHLEA_digital/** | Custom made questionnaire completed daily in the evening. |
+| **continuous/mHLEA_paper/** | Custom made paper-based questionnaire completed daily in the evening; transcribed to xlsx files by the experimenter after study end. |
+| **continuous/sleepdiary/** | Daily in the morning. |
+| **continuous/wearlog/** | Any time participant had removed or started wearing the light logger. |
+| **continuous/wellbeingdiary/** | Daily in the evening. |
+| **chronotype/** | Munich Chronotype Questionnaire (MCTQ) & Morning Eveningness Questionnaire (MEQ) completed at study intake (Monday, day 1). |
