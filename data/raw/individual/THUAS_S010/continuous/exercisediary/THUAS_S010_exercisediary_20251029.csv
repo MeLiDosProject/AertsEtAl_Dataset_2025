@@ -1,0 +1,8 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,form_1_complete,instructions,intensity,location,type,commute,sedentary,light_glasses,startdate_3,enddate_3
+THUAS_S010,,,0.0,,,,,,,,,
+THUAS_S010,exercise_diary,1.0,,1.0,1.0,1.0,interval training running,150.0,0.0,0.0,2025-06-02 23:35:03,2025-06-02 23:35:55
+THUAS_S010,exercise_diary,2.0,,1.0,3.0,2.0,"hard labour, intensive never standing still or sitting down",200.0,0.0,1.0,2025-06-04 01:25:47,2025-06-04 01:27:28
+THUAS_S010,exercise_diary,3.0,,1.0,1.0,1.0,running,90.0,5.0,0.0,2025-06-05 08:38:18,2025-06-05 08:39:08
+THUAS_S010,exercise_diary,4.0,,1.0,3.0,1.0,bikes to work of my girlfriends and to school and back to her work and home,30.0,240.0,0.0,2025-06-06 06:01:23,2025-06-06 06:02:37
+THUAS_S010,exercise_diary,5.0,,1.0,3.0,3.0,"mostly just cleaning stuff, lifting boxes etc",30.0,300.0,0.0,2025-06-08 12:38:27,2025-06-08 12:39:10
+THUAS_S010,exercise_diary,6.0,,1.0,2.0,3.0,went to the gym in the morning and running in the evening,120.0,60.0,0.0,2025-06-10 00:09:45,2025-06-10 00:10:40

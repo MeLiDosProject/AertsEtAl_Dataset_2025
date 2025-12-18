@@ -1,0 +1,21 @@
+record_id;redcap_repeat_instrument;redcap_repeat_instance;consent;online_screening_consent_form_complete;medication;medication_type;tobacco;disorder;gen_health;visual_acuity;availability___1;availability___2;availability___3;availability___4;availability___5;availability___6;availability___7;availability___8;availability___9;availability___10;availability___11;availability___12;availability___13;availability___14;availability___15;availability___16;availability___17;availability___18;availability___19;availability___20;availability___21;availability___22;availability___23;availability___24;availability___25;your_lifestyle_and_health_complete
+THUAS_S001;your_lifestyle_and_health;1;;;0;;0;0;2;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S002;your_lifestyle_and_health;1;;;0;;0;0;0;2;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S003;your_lifestyle_and_health;1;;;1;tegen hoge bloeddruk;0;0;1;2;0;0;0;0;0;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S004;your_lifestyle_and_health;1;;;0;;0;0;0;1;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S005;your_lifestyle_and_health;1;;;0;;0;0;1;2;0;0;0;0;0;0;0;1;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S006;your_lifestyle_and_health;1;;;0;;0;0;2;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S007;your_lifestyle_and_health;1;;;1;Methylphenidate;0;0;2;1;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S008;your_lifestyle_and_health;1;;;0;;0;0;2;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S009;your_lifestyle_and_health;1;;;0;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S010;your_lifestyle_and_health;1;;;0;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S011;your_lifestyle_and_health;1;;;0;;0;0;1;2;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S012;your_lifestyle_and_health;1;;;0;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+THUAS_S013;your_lifestyle_and_health;1;;;0;;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;2
+THUAS_S014;your_lifestyle_and_health;1;;;0;;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+THUAS_S015;your_lifestyle_and_health;1;;;0;;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;2
+THUAS_S016;your_lifestyle_and_health;1;;;1;Mesalazine;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+THUAS_S017;your_lifestyle_and_health;1;;;0;;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+THUAS_S018;your_lifestyle_and_health;1;;;0;;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+THUAS_S019;your_lifestyle_and_health;1;;;0;;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+THUAS_S020;your_lifestyle_and_health;1;;;1;Thyroxine tablets;0;0;2;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

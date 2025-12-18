@@ -1,0 +1,2 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,redcap_survey_identifier,form_1_timestamp,form_1_complete,wear_log_timestamp,wearlog_type,wearlog_event,wearlog_off,reason,wearlog_on,wearlog_bed,radius,wearlog_bag,wearlog_place,wearlog_motion,wearlog_past,wearlog_bp,wearlog_past_off,wearlog_past_on,wearlog_past_sleep,radius_past_time,radius_past,radius_past_back,wearlog_past_bag,wearlog_past_location,wearlog_past_motion,uuid,startdate,enddate,scheduledate,status,supplementaldata,serializedresult,wear_log_complete
+THUAS_S017,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,form_1_complete,instructions,intensity,location,type,commute,sedentary,light_glasses,startdate_3,enddate_3
+THUAS_S020,,,0.0,,,,,,,,,
+THUAS_S020,exercise_diary,1.0,,1.0,2.0,1.0,Biking for 20kms inside city ,80.0,7.0,0.0,2025-10-07 11:27:15,2025-10-07 11:29:18
+THUAS_S020,exercise_diary,2.0,,1.0,2.0,1.0,Biking,25.0,9.0,0.0,2025-10-08 10:10:02,2025-10-08 10:10:58
+THUAS_S020,exercise_diary,3.0,,1.0,2.0,1.0,Biking to work and supermarket ,35.0,600.0,0.0,2025-10-09 11:08:25,2025-10-09 11:09:47
+THUAS_S020,exercise_diary,4.0,,1.0,1.0,1.0,Biking fast to work,45.0,600.0,0.0,2025-10-10 11:16:50,2025-10-10 11:17:38
+THUAS_S020,exercise_diary,5.0,,1.0,2.0,1.0,Biking fast to work,50.0,720.0,0.0,2025-10-11 10:24:43,2025-10-11 10:27:49
+THUAS_S020,exercise_diary,6.0,,1.0,2.0,1.0,Biking to super market and gardening for 1 hour and 45 minutes ,30.0,600.0,0.0,2025-10-12 09:24:13,2025-10-12 09:25:41
+THUAS_S020,exercise_diary,7.0,,1.0,2.0,1.0,Biking inside city,35.0,540.0,0.0,2025-10-13 12:56:48,2025-10-13 12:57:50
+THUAS_S020,exercise_diary,8.0,,1.0,1.0,1.0,Biking fast inside city,50.0,540.0,0.0,2025-10-14 08:40:44,2025-10-14 08:42:00

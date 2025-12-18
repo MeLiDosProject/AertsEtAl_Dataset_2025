@@ -1,0 +1,10 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,form_1_complete,instructions,intensity,location,type,commute,sedentary,light_glasses,startdate_3,enddate_3
+THUAS_S001,,,0.0,,,,,,,,,
+THUAS_S001,exercise_diary,1.0,,1.0,2.0,3.0,"House renovation, cycling and bouldering ",20.0,210.0,1.0,2025-02-23 23:40:02,2025-02-23 23:42:04
+THUAS_S001,exercise_diary,2.0,,1.0,4.0,,,20.0,720.0,,2025-02-25 00:10:12,2025-02-25 00:11:17
+THUAS_S001,exercise_diary,3.0,,1.0,3.0,1.0,gardening ,0.0,600.0,1.0,2025-02-25 23:58:31,2025-02-25 23:59:18
+THUAS_S001,exercise_diary,4.0,,1.0,3.0,1.0,walking ,20.0,720.0,1.0,2025-02-26 22:58:03,2025-02-26 22:59:10
+THUAS_S001,exercise_diary,5.0,,1.0,2.0,2.0,working in SnowWorld ,420.0,240.0,0.0,2025-02-28 00:35:42,2025-02-28 00:36:35
+THUAS_S001,exercise_diary,6.0,,1.0,1.0,1.0,surfing,60.0,300.0,0.0,2025-02-28 22:51:32,2025-02-28 22:51:55
+THUAS_S001,exercise_diary,7.0,,1.0,1.0,1.0,dancing ,420.0,120.0,0.0,2025-03-01 23:03:08,2025-03-01 23:03:36
+THUAS_S001,exercise_diary,8.0,,1.0,4.0,,,0.0,660.0,,2025-03-02 22:01:09,2025-03-02 22:01:32

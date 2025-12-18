@@ -1,0 +1,10 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,form_1_complete,instructions,intensity,location,type,commute,sedentary,light_glasses,startdate_3,enddate_3
+THUAS_S019,,,0.0,,,,,,,,,
+THUAS_S019,exercise_diary,1.0,,1.0,4.0,,,10.0,600.0,,2025-09-29 22:06:00,2025-09-29 22:06:41
+THUAS_S019,exercise_diary,2.0,,1.0,2.0,1.0,bicycle riding to/from office,30.0,240.0,0.0,2025-09-30 23:38:57,2025-09-30 23:40:28
+THUAS_S019,exercise_diary,3.0,,1.0,2.0,1.0,30,30.0,360.0,0.0,2025-10-01 22:24:11,2025-10-01 22:25:10
+THUAS_S019,exercise_diary,4.0,,1.0,1.0,2.0,"underwater hockey, synchronised swimming, rescue swimming",40.0,180.0,0.0,2025-10-03 02:17:36,2025-10-03 02:19:17
+THUAS_S019,exercise_diary,5.0,,1.0,2.0,1.0,bicycling ,30.0,240.0,0.0,2025-10-03 21:10:54,2025-10-03 21:11:51
+THUAS_S019,exercise_diary,6.0,,1.0,3.0,1.0,walking in the park ,5.0,300.0,0.0,2025-10-04 23:59:31,2025-10-05 00:00:45
+THUAS_S019,exercise_diary,7.0,,1.0,3.0,1.0,walking in the park,120.0,420.0,0.0,2025-10-05 23:14:28,2025-10-05 23:15:42
+THUAS_S019,exercise_diary,8.0,,1.0,2.0,1.0,biking,45.0,420.0,0.0,2025-10-06 23:26:01,2025-10-06 23:27:01
