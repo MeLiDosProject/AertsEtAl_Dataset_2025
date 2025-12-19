@@ -141,7 +141,7 @@ data_cleaned |>
   aggregate_Datetime("1 minute", numeric.handler = \(x) mean(x, na.rm = TRUE)) |> 
   remove_partial_data(MEDI, threshold.missing = "3 hours", by.date = TRUE)
 
-save(data_export, file = "../data/nl_1minute.RData")
+save(data_export, file = "../data/imported/light/nl_1minute.RData")
 ```
 
 ## Visualization
