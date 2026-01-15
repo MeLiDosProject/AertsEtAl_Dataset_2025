@@ -54,9 +54,9 @@ persistent identifier (DOI).
 
 APA reference:
 
-> Didikoglu, A., Akgun, S. G., Aydin, S. N., Kayar, Z., Zauner, J., &
-> Spitschan, M. (2025). Personal light exposure dataset for Delft, The
-> Netherlands (Version 1.0.0) \[Data set\]. URL:
+> Aerts, S., Jansen, A., Hogervorst, N., Boesten, D., Bolte, J., 
+> Zauner, J., & Spitschan, M. (2025). Personal light exposure dataset for 
+> Delft, The Netherlands (Version 1.0.0) \[Data set\]. URL:
 > <https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025>. DOI:
 > 10.5281/zenodo.17979893
 
