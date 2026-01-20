@@ -40,7 +40,6 @@ APA reference:
 
 ## Descriptive statistics
 
-
 ### Demographics
 
 ![Summary table of participant demographics](output/tables/table_demographics.png)
@@ -52,6 +51,10 @@ APA reference:
 ### Sleep
 
 ![Summary table of the morning sleep diary](output/tables/table_sleepdiary.png)
+
+### Chronotype
+
+![Summary table of chronotype questionnaires](output/tables/table_chronotype.png)
 
 ## Summary of the dataset
 | Dataset name | THUAS |
