@@ -112,10 +112,11 @@ mutate(
     sd_week = sd_week(sd_w, sd_f, nr_workdays_adj),
     msf_sc = msf_sc(msf, sd_w, sd_f, sd_week, alarm_f = rep(FALSE, n())),
     sjl = sjl(msw, msf, abs = FALSE),
-  .before = 2
+  .before = 2,
+    outdoor = ((outdoor_work_calc * nr_workdays_adj) + (outdoor_free_calc* (7-nr_workdays_adj))) / 7
     )
 
-chronotype <- data |> select(record_id:sjl)
+chronotype <- data |> select(record_id:outdoor)
 ```
 
 > Note: Participants who indicated they use an alarm clock on free days (alarm_free) cannot be used for MCTQ calculation. In this overview, this behavior is overwritten by setting the alarm_f parameter to FALSE. For formal analysis, these must be removed.
@@ -211,6 +212,7 @@ attr(chronotype$msf, "label") <- "Mid-sleep on free days (calculated)"
 attr(chronotype$sd_week, "label") <- "Average weekly sleep duration (calculated)"
 attr(chronotype$msf_sc, "label") <- "Mid-sleep on free days, sleep corrected (calculated)"
 attr(chronotype$sjl, "label") <- "Social jetlag (calculated)"
+attr(chronotype$outdoor, "label") <- "Average number of minutes outside (calculated)"
 
 chronotype <- chronotype |> relocate(meq_type, meq, msf_sc, sjl, .after = record_id)
 
