@@ -97,7 +97,7 @@ gtsave(table_sleepdiary(data) |> as_gt(), filename = "../output/tables/table_sle
 
 ### Set sleep time zone
 ```{r}
-site = "IZTECH"
+site = "THUAS"
 data <- 
   data |> 
   mutate(across(where(is.POSIXct), 
