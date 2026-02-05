@@ -1,8 +1,8 @@
 record_id,start,activity_desc_english,activity_desc
 THUAS_S003,2025-03-17T17:00:00Z,dinner,dinner
-THUAS_S003,2025-03-17T18:00:00Z,TV,tv
-THUAS_S003,2025-03-17T19:00:00Z,watching TV,tv
-THUAS_S003,2025-03-17T20:00:00Z,TV,tv
+THUAS_S003,2025-03-17T18:00:00Z,watching TV,tv
+THUAS_S003,2025-03-17T19:00:00Z,TV,tv
+THUAS_S003,2025-03-17T20:00:00Z,tv,tv
 THUAS_S003,2025-03-19T12:00:00Z,store,"store, "
 THUAS_S003,2025-03-19T13:00:00Z,store,store
 THUAS_S003,2025-03-19T14:00:00Z,store,store
@@ -11,7 +11,7 @@ THUAS_S003,2025-03-19T18:00:00Z,and 8 (bar), and 8 (bar)
 THUAS_S003,2025-03-19T19:00:00Z,bar,bar
 THUAS_S003,2025-03-19T20:00:00Z,bar,bar
 THUAS_S003,2025-03-19T21:00:00Z,bar,bar
-THUAS_S003,2025-03-20T13:00:00Z,Also dark room for presentation.,also dark room for presentation
+THUAS_S003,2025-03-20T13:00:00Z,also dark room for presentation,also dark room for presentation
 THUAS_S003,2025-03-21T08:00:00Z,store,store
 THUAS_S003,2025-03-21T09:00:00Z,store,store
 THUAS_S003,2025-03-21T10:00:00Z,store,"store, "
@@ -51,7 +51,7 @@ THUAS_S006,2025-04-05T21:00:00Z,house party,house party
 THUAS_S006,2025-04-05T22:00:00Z,house party,house party
 THUAS_S006,2025-04-05T23:00:00Z,house party,house party
 THUAS_S006,2025-04-06T00:00:00Z,house party,house party
-THUAS_S006,2025-04-06T09:00:00Z,sports indoor,"sports indoor, "
+THUAS_S006,2025-04-06T09:00:00Z,indoor sports,"sports indoor, "
 THUAS_S006,2025-04-06T10:00:00Z,sports indoor,sports indoor
 THUAS_S006,2025-04-07T06:00:00Z,NA,", "
 THUAS_S007,2025-04-10T16:00:00Z,bar,bar
@@ -79,9 +79,9 @@ THUAS_S011,2025-05-15T13:00:00Z,store,; store
 THUAS_S011,2025-05-16T13:00:00Z,sport outdoors,sport outdoors
 THUAS_S011,2025-05-16T14:00:00Z,shower,shower
 THUAS_S011,2025-05-17T19:00:00Z,Eurovision song festival,Eurovision song festival
-THUAS_S011,2025-05-17T20:00:00Z,Eurovision Song Festival,Eurovision song festival
-THUAS_S011,2025-05-17T21:00:00Z,Eurovision song festival,Eurovision song festival
-THUAS_S011,2025-05-17T22:00:00Z,Eurovision Song Festival,Eurovision song festival
+THUAS_S011,2025-05-17T20:00:00Z,Eurovision song festival,Eurovision song festival
+THUAS_S011,2025-05-17T21:00:00Z,Eurovision Song Festival,Eurovision song festival
+THUAS_S011,2025-05-17T22:00:00Z,Eurovision song festival,Eurovision song festival
 THUAS_S011,2025-05-18T10:00:00Z,sport outdoors,sport outdoors
 THUAS_S011,2025-05-18T11:00:00Z,shower,shower
 THUAS_S014,2025-07-10T15:00:00Z,not wearing glasses,not wearing glasses
@@ -101,20 +101,20 @@ THUAS_S014,2025-07-12T20:00:00Z,not wearing glasses,not wearing glasses
 THUAS_S014,2025-07-13T09:00:00Z,movie theater,movie theater
 THUAS_S014,2025-07-13T10:00:00Z,movie theater,movie theater
 THUAS_S014,2025-07-13T12:00:00Z,volunteer in movie theater,volunteer in movie theater
-THUAS_S014,2025-07-13T13:00:00Z,volunteer in movie theater,volunteer in movie theater
-THUAS_S014,2025-07-13T14:00:00Z,Volunteer in movie theater,volunteer in movie theater
+THUAS_S014,2025-07-13T13:00:00Z,Volunteer in movie theater,volunteer in movie theater
+THUAS_S014,2025-07-13T14:00:00Z,volunteer in movie theater,volunteer in movie theater
 THUAS_S014,2025-07-13T15:00:00Z,volunteer in movie theater,volunteer in movie theater
 THUAS_S014,2025-07-13T16:00:00Z,volunteer in movie theater,volunteer in movie theater
 THUAS_S015,2025-07-07T17:00:00Z,putting child to bed in dark room,putting child to bed in dark room
 THUAS_S015,2025-07-08T15:00:00Z,NA,", "
 THUAS_S015,2025-07-10T06:00:00Z,NA,", "
 THUAS_S015,2025-07-10T18:00:00Z,putting child to bed in dark room,putting child to bed in dark room
-THUAS_S015,2025-07-11T16:00:00Z,Not wearing glasses and keycord,", not wearing glasses and keycord"
-THUAS_S015,2025-07-11T17:00:00Z,Not wearing glasses and keycord,", not wearing glasses and keycord"
-THUAS_S015,2025-07-11T18:00:00Z,Not wearing glasses and keycord,", not wearing glasses and keycord"
-THUAS_S015,2025-07-11T19:00:00Z,Not wearing glasses and keycord,", not wearing glasses and keycord"
+THUAS_S015,2025-07-11T16:00:00Z,not wearing glasses and keycord,", not wearing glasses and keycord"
+THUAS_S015,2025-07-11T17:00:00Z,not wearing glasses and keycord,", not wearing glasses and keycord"
+THUAS_S015,2025-07-11T18:00:00Z,not wearing glasses and keycord,", not wearing glasses and keycord"
+THUAS_S015,2025-07-11T19:00:00Z,not wearing glasses and keycord,", not wearing glasses and keycord"
 THUAS_S015,2025-07-11T20:00:00Z,NA,", not wearing glasses and keycord"
-THUAS_S015,2025-07-11T21:00:00Z,NA,", not wearing glasses and keycord"
+THUAS_S015,2025-07-11T21:00:00Z,Not wearing glasses and keycord,", not wearing glasses and keycord"
 THUAS_S015,2025-07-14T11:00:00Z,NA,", "
 THUAS_S017,2025-09-09T06:00:00Z,sport,sport
 THUAS_S017,2025-09-09T07:00:00Z,sport,sport
@@ -134,15 +134,15 @@ THUAS_S018,2025-09-22T13:00:00Z,indoor class,"indoor class, "
 THUAS_S018,2025-09-22T14:00:00Z,indoor class,"indoor class, "
 THUAS_S018,2025-09-23T08:00:00Z,off,off
 THUAS_S018,2025-09-24T10:00:00Z,no glasses,no glasses
-THUAS_S018,2025-09-24T17:00:00Z,indoor sport,", sport indoors"
+THUAS_S018,2025-09-24T17:00:00Z,sport indoors,", sport indoors"
 THUAS_S018,2025-09-24T18:00:00Z,sport indoors,sport indoors
 THUAS_S018,2025-09-24T19:00:00Z,sport indoors,"sport indoors, "
-THUAS_S018,2025-09-26T06:00:00Z,sport indoors,", sport indoors"
+THUAS_S018,2025-09-26T06:00:00Z,Sport indoors,", sport indoors"
 THUAS_S018,2025-09-26T07:00:00Z,no glasses,no glasses
 THUAS_S018,2025-09-26T08:00:00Z,no glasses,no glasses
 THUAS_S018,2025-09-27T15:00:00Z,no glasses,no glasses
 THUAS_S018,2025-09-27T17:00:00Z,blue light on light glasses,blue light on light glasses
-THUAS_S018,2025-09-28T07:00:00Z,No glasses after red light stopped blinking,no glasses after red light stopped blinking
+THUAS_S018,2025-09-28T07:00:00Z,No glasses after the red light stopped blinking.,no glasses after red light stopped blinking
 THUAS_S018,2025-09-29T06:00:00Z,NA,", ?"
 THUAS_S018,2025-09-29T14:00:00Z,music studio,"music studio, "
 THUAS_S019,2025-10-02T17:00:00Z,swimming pool,swimming pool
@@ -157,15 +157,15 @@ THUAS_S020,2025-10-11T00:00:00Z,1:30 - 3:30 sleeping on chair,1:30 - 3:30 sleepi
 THUAS_S020,2025-10-11T01:00:00Z,1:30 - 3:30 sleeping on chair,1:30 - 3:30 sleeping on chair
 THUAS_S020,2025-10-11T12:00:00Z,gardening,gardening
 THUAS_S020,2025-10-11T13:00:00Z,gardening,"gardening, "
-THUAS_S020,2025-10-12T01:00:00Z,The computer monitor was on during sleep time.,computer monitor was on during sleep time
+THUAS_S020,2025-10-12T01:00:00Z,computer monitor was on during sleep time,computer monitor was on during sleep time
 THUAS_S020,2025-10-12T12:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T13:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
-THUAS_S020,2025-10-12T14:00:00Z,Sensor not worn but placed in same room.,sensor not worn but placed in same room
+THUAS_S020,2025-10-12T14:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T15:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T16:00:00Z,Sensor not worn but placed in same room.,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T17:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T18:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
-THUAS_S020,2025-10-12T19:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
-THUAS_S020,2025-10-12T20:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
+THUAS_S020,2025-10-12T19:00:00Z,Sensor not worn but placed in the same room.,sensor not worn but placed in same room
+THUAS_S020,2025-10-12T20:00:00Z,sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-12T21:00:00Z,Sensor not worn but placed in same room,sensor not worn but placed in same room
 THUAS_S020,2025-10-13T23:00:00Z,Computer monitor was on during sleep time.,computer monitor was on during sleep time
