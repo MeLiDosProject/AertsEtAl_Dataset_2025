@@ -107,8 +107,14 @@ Only two days remains with gap/irregular data. One is due to the daylight saving
 data_cleaned <- 
 data |> 
   cut_Datetime("10 secs", New.colname = Datetime) |> 
-  gap_handler(full.days = TRUE) #remove implicit gaps
+  gap_handler(full.days = TRUE) |>  #remove implicit gaps
+  group_modify(
+    \(dat,key) if(key$Id == "THUAS_S014") {
+      dat |>  aggregate_Datetime()
+    } else dat
+  )
 
+data_cleaned |> count_difftime() |> filter(difftime == 0) |> nrow() != 0 #no duplicates
 data_cleaned |> has_gaps() #no more implicit gaps
 data_cleaned |> has_irregulars() #no more irregular data
 data_cleaned |> gap_table(MEDI) |> cols_hide(ends_with("_n"))
