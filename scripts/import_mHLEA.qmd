@@ -294,7 +294,7 @@ gtsave(table |> as_gt(), filename = "../output/tables/table_lightexposurediary.p
 ### Export
 
 ```{r}
-data <- data |> rename(Id = record_id)
+data <- data |> rename(Id = record_id) |> relocate(start, .before = end)
 lightexposurediary <- data
 path <- "../data/imported/continuous/"
 if(!dir.exists(path)) dir.create(path, recursive = TRUE)
