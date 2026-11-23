@@ -8,7 +8,7 @@
 
 ### Personal light exposure dataset for Delft, The Netherlands; collected by The Hague University of Applied Sciences (THUAS) following the protocol of Guidolin et al. 2024 (MeLiDos field study)
 
-**Version v1.0.0**
+**Version v1.2.0**
 
 <!-- badges: start -->
 
@@ -55,10 +55,20 @@ persistent identifier (DOI).
 APA reference:
 
 > Aerts, S., Jansen, A., Hogervorst, N., Boesten, D., Bolte, J., Zauner,
-> J., & Spitschan, M. (2025). Personal light exposure dataset for Delft,
-> The Netherlands (Version 1.0.0) \[Data set\]. URL:
+> J., & Spitschan, M. (2026). Personal light exposure dataset for Delft,
+> The Netherlands (Version 1.2.0) \[Data set\]. URL:
 > <https://github.com/MeLiDosProject/AertsEtAl_Dataset_2025>. DOI:
 > 10.5281/zenodo.17979893
+
+### Reproducing the corrected exports
+
+The current exports are in `data/imported/`; their source importers are
+in `scripts/import_*.qmd`. See [CHANGELOG.md](CHANGELOG.md) for the
+changes in this release and [REPRODUCING.md](REPRODUCING.md) for
+execution and verification. The release includes a fixed copy of its
+metadata helpers and codebooks in `metadata/`. Raw source records remain
+available for traceability. Superseded importers and generated HTML
+reports are available in Git history.
 
 ## Descriptive statistics
 

@@ -5,3 +5,8 @@
 .DStore
 .DS_Store
 .positai
+scripts/*.html
+scripts/*_files/
+scripts/.quarto/
+output/rebuild/
+README.html
